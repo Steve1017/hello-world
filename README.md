@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+Hi humans,
+
+Cut the crap and show me the code!
